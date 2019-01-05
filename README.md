@@ -1,2 +1,5 @@
 # Galaxy-War
-This is a game project using TCP and UDP protocols 
+This is a game project using TCP and UDP
+
+## Tasks
+The game is designed to make a race between to vehicles or more and they can shot each others
